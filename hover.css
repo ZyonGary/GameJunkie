@@ -1,0 +1,49 @@
+.ps4:hover {
+    color: yellow;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.xbox:hover {
+    color:yellow;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.switch:hover {
+    color: yellow;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.BlueRay:hover {
+    color: orangered;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.shopnow:hover {
+    color: yellow;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.free-button:hover {
+    color: orangered;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+p:hover {
+ text-decoration: underline;
+ color: orangered;
+ cursor: pointer;
+}
+
+.Follow {
+    cursor: pointer;
+}
+
+.content:hover {
+ cursor: pointer;
+ color: yellow;
+}

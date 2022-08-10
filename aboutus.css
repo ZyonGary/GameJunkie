@@ -1,0 +1,49 @@
+html {
+ background-color: black;
+}
+
+.container{
+    border: 2px solid black;
+    background-image: url(https://th.bing.com/th/id/OIP.0y-kpwyiUg-8onU8kFG-cQHaEK?w=276&h=180&c=7&r=0&o=5&pid=1.7);
+    display: block;
+    text-align: right;
+}
+
+.content {
+    text-transform: uppercase;
+    display: inline-block;
+    margin-left: 20px;
+    text-decoration: underline;
+    color: orangered;
+}
+
+img {
+    width: 80px;
+    float: left;
+    
+}
+
+h1 {
+    float: left;
+    margin-left: 5px;
+    color: orangered;
+}
+
+h2.quote {
+    text-align: center;
+    margin-right: 250px;
+    color: red;
+    text-transform: capitalize;
+}
+
+.content:hover {
+    color: yellow;
+}
+
+.header{
+    color: orangered;
+    text-align: center;
+    margin-top: 10px;
+    text-transform: capitalize;
+}
+
